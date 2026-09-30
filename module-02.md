@@ -1,24 +1,61 @@
-![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
+## 6. Simulation Structure
 
-# What does a holistic user experience design process look like?
+The simulation contains four levels. Each level corresponds to one phase  For the first four days of Consulting Studio, students will experience a new “event.” Each day of class will correspond with ~one week of simulated time to allow for more believable development of the events/case.
 
-## Summaries and Questions  
-[May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377743)
+| Level | Scheduled day | Phase | Primary learning emphasis |
+|---:|---|---|---|
+| 1 | Wednesday | Scope definition and initial engagement | Problem framing and research |
+| 2 | Thursday | Deep analysis and strategic adaptation | Updating strategy |
+| 3 | Friday | Stress testing and crisis navigation | Resilience and implementation |
+| 4 | Tuesday | Final recommendation and ownership pitch | Synthesis and persuasion |
 
-## Presented Slides  
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+### 6.1 Level 1: Scope Definition and Initial Engagement
 
-## CPT-363 UX Design Process/Toolkit
-![UX Design Process/Toolkit](images/ux-toolkit-8-no-numbers.png)
+Students make decisions about:
 
-## Downloads
-[Product Reaction Cards](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Product%20Reaction%20Cards)  
+1. Strategic scope
+2. Research and market discovery
+3. Use of support assets
+4. Stakeholder expectations
+5. Initial engagement deliverable
 
-## Assignments
-[Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)  
+**End-of-level activity:** Wednesday decision log
 
-## Quick Quiz
-<iframe src="https://h5p.org/h5p/embed/214115" width="728" height="278" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="User-Centered Design"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+### 6.2 Level 2: Deep Analysis and Strategic Adaptation
 
-## Recommended Reading  
-<a class="embedly-card" data-card-theme="light" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b">The Evolution of UX Process Methodology</a>
+Before Level 2 decisions, each participant or team receives a Tourism and Regional Infrastructure curveball.
+
+Students make decisions about:
+
+1. Responding to the development
+2. Strategic positioning
+3. [Node 2.3 topic]
+4. [Node 2.4 topic]
+5. [Node 2.5 topic]
+
+**End-of-level activity:** Thursday decision log
+
+### 6.3 Level 3: Stress Testing and Crisis Navigation
+
+Before Node 3.1, each participant or team receives an Economic and Corporate Landscape curveball.
+
+After Node 3.1, each participant or team receives either:
+
+- A Local Policy and Community Relations curveball, or
+- A Competitive Environment and Market Dynamics curveball
+
+Students then complete Nodes 3.2–3.5.
+
+**End-of-level activity:** Friday decision log
+
+### 6.4 Level 4: Final Recommendation and Ownership Pitch
+
+Students consolidate their work into a final recommendation addressing:
+
+1. Final strategy
+2. Implementation and governance
+3. Financial justification
+4. Executive communication
+5. Final submission
+
+**End-of-level activity:** Final recommendation and team reflection
