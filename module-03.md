@@ -1,18 +1,27 @@
-![Bullseye](images/6384294717_5047a35d48_b.jpg ':class=banner-image')
+## 7. Participation Modes
 
-# How to make more strategic design decisions?
+### 7.1 Group mode
 
-## Summaries and Questions  
-[May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377744)
+In group mode:
 
-## Presented Slides  
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+- Students enter an assigned Team ID between the numbers 1 and 100. 
+- The Team ID is stored as embedded data.
+- Curveballs are assigned deterministically.
+- The same Team ID always receives the same curveballs.
+- One designated scribe should operate the Qualtrics response.
+- Other team members should participate through discussion.
 
-## Supplemental Materials  
-<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/a40QYgO-_aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+### 7.2 Solo mode
 
-## Assignments
-[Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756)  
+In solo mode:
 
-## Required Reading  
-<a class="embedly-card" data-card-theme="light" data-card-controls="0" data-card-align="left" href="https://www.aytech.ca/blog/user-journey-map/">What is a User Journey Map?</a>
+- No Team ID is required.
+- Curveballs are selected randomly from the relevant pools.
+- The selected assignments are stored in embedded data.
+- Assignments remain fixed within that response.
+
+### 7.3 Group consistency
+
+The simulation does not provide simultaneous collaborative editing. The recommended operating procedure is:
+
+> One designated scribe advances the simulation on behalf of the group. The group discusses each decision before the scribe submits it.
